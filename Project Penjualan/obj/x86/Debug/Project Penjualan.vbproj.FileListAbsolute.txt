@@ -1,0 +1,15 @@
+C:\PROJECTS\Project Penjualan\Project Penjualan\bin\Debug\Project Penjualan.exe
+C:\PROJECTS\Project Penjualan\Project Penjualan\bin\Debug\Project Penjualan.pdb
+C:\PROJECTS\Project Penjualan\Project Penjualan\bin\Debug\Project Penjualan.xml
+C:\PROJECTS\Project Penjualan\Project Penjualan\obj\x86\Debug\Project_Penjualan.FormUtama.resources
+C:\PROJECTS\Project Penjualan\Project Penjualan\obj\x86\Debug\Project_Penjualan.Resources.resources
+C:\PROJECTS\Project Penjualan\Project Penjualan\obj\x86\Debug\Project Penjualan.vbproj.GenerateResource.Cache
+C:\PROJECTS\Project Penjualan\Project Penjualan\obj\x86\Debug\Project Penjualan.exe
+C:\PROJECTS\Project Penjualan\Project Penjualan\obj\x86\Debug\Project Penjualan.xml
+C:\PROJECTS\Project Penjualan\Project Penjualan\obj\x86\Debug\Project Penjualan.pdb
+C:\PROJECTS\Project Penjualan\Project Penjualan\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\PROJECTS\Project Penjualan\Project Penjualan\bin\Debug\MySql.Fabric.Plugin.dll
+C:\PROJECTS\Project Penjualan\Project Penjualan\obj\x86\Debug\Project Penjualan.vbprojResolveAssemblyReference.cache
+C:\PROJECTS\Project Penjualan\Project Penjualan\obj\x86\Debug\Project_Penjualan.FormLogin.resources
+C:\PROJECTS\Project Penjualan\Project Penjualan\obj\x86\Debug\Project_Penjualan.FormBarang.resources
+C:\PROJECTS\Project Penjualan\Project Penjualan\obj\x86\Debug\Project_Penjualan.FormPembeli.resources
