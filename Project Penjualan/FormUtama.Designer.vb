@@ -94,8 +94,8 @@ Partial Class FormUtama
         '
         Me.LapoanToolStripMenuItem.DropDownItems.AddRange(New System.Windows.Forms.ToolStripItem() {Me.DataSemuaBarangToolStripMenuItem, Me.DataSemiaPembeliToolStripMenuItem, Me.ToolStripMenuItem2, Me.LaporanTransaksiToolStripMenuItem})
         Me.LapoanToolStripMenuItem.Name = "LapoanToolStripMenuItem"
-        Me.LapoanToolStripMenuItem.Size = New System.Drawing.Size(104, 36)
-        Me.LapoanToolStripMenuItem.Text = "Lapoan"
+        Me.LapoanToolStripMenuItem.Size = New System.Drawing.Size(112, 36)
+        Me.LapoanToolStripMenuItem.Text = "Laporan"
         '
         'DataSemuaBarangToolStripMenuItem
         '

@@ -3,7 +3,7 @@
 -- https://www.phpmyadmin.net/
 --
 -- Host: 127.0.0.1
--- Generation Time: Jan 28, 2024 at 03:21 PM
+-- Generation Time: Jan 30, 2024 at 03:29 PM
 -- Server version: 10.4.22-MariaDB
 -- PHP Version: 7.4.26
 
@@ -40,7 +40,7 @@ CREATE TABLE `barang` (
 
 INSERT INTO `barang` (`id_barang`, `nama_barang`, `harga`, `stok`) VALUES
 (1, 'Buku Tulis', 3000, 100),
-(2, 'Gunting Kuku', 5000, 10),
+(2, 'Gunting Kuku', 6000, 10),
 (4, 'Pensil', 2500, 10);
 
 -- --------------------------------------------------------
@@ -99,6 +99,14 @@ CREATE TABLE `transaksi` (
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
 --
+-- Dumping data for table `transaksi`
+--
+
+INSERT INTO `transaksi` (`id_transaksi`, `id_pembeli`, `id_barang`, `tanggal`, `keterangan`) VALUES
+(1, 1, 2, '29-01-2024', 'ok'),
+(2, 3, 4, '30-01-2024', 'pensil');
+
+--
 -- Indexes for dumped tables
 --
 
@@ -146,7 +154,7 @@ ALTER TABLE `pembeli`
 -- AUTO_INCREMENT for table `transaksi`
 --
 ALTER TABLE `transaksi`
-  MODIFY `id_transaksi` int(11) NOT NULL AUTO_INCREMENT;
+  MODIFY `id_transaksi` int(11) NOT NULL AUTO_INCREMENT, AUTO_INCREMENT=4;
 COMMIT;
 
 /*!40101 SET CHARACTER_SET_CLIENT=@OLD_CHARACTER_SET_CLIENT */;

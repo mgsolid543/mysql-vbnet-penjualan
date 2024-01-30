@@ -13,3 +13,8 @@ C:\PROJECTS\Project Penjualan\Project Penjualan\obj\x86\Debug\Project Penjualan.
 C:\PROJECTS\Project Penjualan\Project Penjualan\obj\x86\Debug\Project_Penjualan.FormLogin.resources
 C:\PROJECTS\Project Penjualan\Project Penjualan\obj\x86\Debug\Project_Penjualan.FormBarang.resources
 C:\PROJECTS\Project Penjualan\Project Penjualan\obj\x86\Debug\Project_Penjualan.FormPembeli.resources
+C:\PROJECTS\Project Penjualan\Project Penjualan\obj\x86\Debug\Project_Penjualan.FormPenjualan.resources
+C:\PROJECTS\Project Penjualan\Project Penjualan\bin\Debug\Project Penjualan.exe.config
+C:\PROJECTS\Project Penjualan\Project Penjualan\obj\x86\Debug\Project_Penjualan.FormReportSemuaPembeli.resources
+C:\PROJECTS\Project Penjualan\Project Penjualan\obj\x86\Debug\Project_Penjualan.FormReportSemuaBarang.resources
+C:\PROJECTS\Project Penjualan\Project Penjualan\obj\x86\Debug\Project_Penjualan.FormReportSemuaTransaksi.resources
